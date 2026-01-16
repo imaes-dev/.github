@@ -2,8 +2,6 @@
   <img src="../logo.png" alt="IMAES Logo" width="120" />
 </p>
 
-<h1 align="center">IMAES</h1>
-
 <p align="center">
   <strong>아이매스 시스템</strong>
 </p>
