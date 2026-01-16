@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="../logo.png" alt="IMAES Logo" width="120" />
-</p>
-
-<p align="center">
-  <strong>아이매스 시스템</strong>
+  <img src="../logo.png" alt="IMAES Logo" width="180" />
 </p>
 
 <p align="center">
